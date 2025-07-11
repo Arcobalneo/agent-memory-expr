@@ -1,0 +1,13 @@
+openai
+tenacity
+requests
+Wikipedia-API
+psutil
+tqdm
+termcolor
+sacrebleu
+pyyaml
+datasets
+fire
+numpy
+pandas 
